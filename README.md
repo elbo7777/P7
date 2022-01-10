@@ -13,4 +13,6 @@ Le projet comprend 3 notebooks jupyter :
 Par ailleurs, une note méthodologique précise les points nécessitant des explications sur la démarche poursuivie
 
 enfin, un powerpoint de présentation pour la soutenance de ce projet.
+mpour déployer une application sur heroku : https://morning-caverns-71549.herokuapp.com/
+
 
